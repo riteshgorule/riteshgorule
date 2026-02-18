@@ -82,9 +82,15 @@
 
 <h2 align="center">📊 GitHub Metrics</h2>
 
-<p align="center">
-  <img src="https://github.com/riteshgorule/riteshgorule/blob/main/github-metrics.svg" alt="GitHub Metrics">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/riteshgorule/riteshgorule/main/profile-summary-card-output/dark/0-profile-details.svg" alt="Profile Details" />
+  <br>
+  <img src="https://raw.githubusercontent.com/riteshgorule/riteshgorule/main/profile-summary-card-output/dark/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/riteshgorule/riteshgorule/main/profile-summary-card-output/dark/4-productive-time.svg" alt="Productivity" />
+  <br>
+  <img src="https://raw.githubusercontent.com/riteshgorule/riteshgorule/main/profile-summary-card-output/dark/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/riteshgorule/riteshgorule/main/profile-summary-card-output/dark/2-most-commit-language.svg" alt="Most Committed Language" />
+</div>
 
 <br>
 
