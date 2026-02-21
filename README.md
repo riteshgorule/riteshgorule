@@ -108,7 +108,5 @@
 <hr style="border: 1px solid #181717;">
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=riteshgorule&icon=0&color=12" alt="Visitors">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=riteshgorule&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
