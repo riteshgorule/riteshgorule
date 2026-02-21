@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?q=80&w=1000&auto=format&fit=crop" width="100%" height="300" alt="Minimalist Banner" style="object-fit: cover;">
+  <img src="banner.png" width="100%" alt="Ritesh Gorule Banner">
   
   <h1 align="center">Welcome to Ritesh's GitHub 👋</h1>
 
@@ -104,3 +104,11 @@
 </div>
 
 <br>
+
+<hr style="border: 1px solid #181717;">
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=riteshgorule&icon=0&color=12" alt="Visitors">
+  </a>
+</p>
