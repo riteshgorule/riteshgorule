@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Ritesh Gorule Banner">
+  <!-- <img src="banner.png" width="100%" alt="Ritesh Gorule Banner"> -->
   
   <h1 align="center">Welcome to Ritesh's GitHub 👋</h1>
 
