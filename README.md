@@ -97,14 +97,6 @@
 
 <br>
 
-<h2 align="center">🌱 Currently Learning</h2>
-
-<div align="center">
-  Machine Learning • Model Evaluation • Feature Engineering • Data Analysis • ML + Web Integration
-</div>
-
-<br>
-
 <hr style="border: 1px solid #181717;">
 
 <p align="center">
